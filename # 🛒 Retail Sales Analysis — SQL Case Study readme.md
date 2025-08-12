@@ -214,7 +214,7 @@ FROM product_revenue;
 
 ## 👤 Author
 
-**Ram Guru**  
+**RamaChandrudu**  
 Aspiring Data Analyst | SQL • Excel • Python  
 [🔗 LinkedIn](https://www.linkedin.com/in/ramachandrudu6815)  
 [🐱 GitHub](https://github.com/Rammsd007)
